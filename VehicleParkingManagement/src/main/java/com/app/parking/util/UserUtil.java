@@ -1,8 +1,5 @@
 package com.app.parking.util;
 
-import com.app.parking.model.User;
-import com.app.parking.model.Admin;
-import java.util.*;
 import java.io.*;
 
 public class UserUtil {
