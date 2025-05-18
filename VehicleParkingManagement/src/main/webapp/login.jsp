@@ -4,7 +4,7 @@
 <head>
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <title>Login - Parking System</title>
+    <title>Login - eParkZone</title>
     <script src="https://cdn.tailwindcss.com"></script>
     <style>
         body {
@@ -22,7 +22,7 @@
 <body class="min-h-screen flex items-center justify-center">
 <div class="w-full max-w-md p-8 space-y-8 bg-white rounded-lg shadow-md bg-overlay">
     <div class="text-center">
-        <h2 class="text-3xl font-extrabold text-gray-900">Parking System</h2>
+        <h2 class="text-3xl font-extrabold text-gray-900">eParkZone</h2>
         <p class="mt-2 text-sm text-gray-600">Sign in to your account</p>
     </div>
 
