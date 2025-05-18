@@ -8,7 +8,7 @@ import java.util.*;
 import java.util.stream.Collectors;
 
 public class UserDAO {
-    private static final String FILE_PATH = "src/main/resources/data/users.txt";
+    private static final String FILE_PATH = "C:/Users/Randini/Desktop/New folder/VehicleParkingManagement/Data/users.txt";
     private static final String DELIMITER = ",";
 
     static {
