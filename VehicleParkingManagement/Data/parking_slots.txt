@@ -1,2 +1,0 @@
-d2426066-3af2-4dba-a682-3876a54081f7,1,Car,true,1
-01841dfd-bc3d-42a6-a0ae-a606ce45141a,2,Bike,false,null
